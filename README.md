@@ -1,6 +1,6 @@
-#The essential of this project is to mimic an API backend and get the information from the API to be used in the frontend. In this case, the Data.js is the "API Backend File". Array.prototype.map method is used to iterate each of the elements in the array in Data.js, then render it inside the Body.js file, <Body /> tag. This gives flexibility and freedom to render the code according to the information fed upon, and not hardcoding one by one. 
+# The essential of this project is to mimic an API backend and get the information from the API to be used in the frontend. In this case, the Data.js is the "API Backend File". Array.prototype.map method is used to iterate each of the elements in the array in Data.js, then render it inside the Body.js file, <Body /> tag. This gives flexibility and freedom to render the code according to the information fed upon, and not hardcoding one by one. 
 
-#This project can be improvised by making it responsive. As of now, I created a non-responsive web page.
+# This project can be improvised by making it responsive. As of now, I created a non-responsive web page.
 
 # Getting Started with Create React App
 
